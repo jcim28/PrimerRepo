@@ -1,4 +1,4 @@
---
+---
 # Oscialciones Acusticas de bariones
 
 Mejor conocido por sus siglas "BAO", se entienden como huellas en la estructura del Universo se *pueden ver* como discos de sobre-densidades a un radio característico partiendo de la posición inicial de la perturbación primordial (que también se puede observar como una sobre población de estrucutras). 
