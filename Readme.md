@@ -1,5 +1,5 @@
 --
- __# Oscialciones Acusticas de bariones__
+# Oscialciones Acusticas de bariones
 
 Mejor conocido por sus siglas "BAO", se entienden como huellas en la estructura del Universo se *pueden ver* como discos de sobre-densidades a un radio característico partiendo de la posición inicial de la perturbación primordial (que también se puede observar como una sobre población de estrucutras). 
 
@@ -16,4 +16,4 @@ La hisotria de BAO se puede resumir como:
 ![pk](https://github.com/jcim28/PrimerRepo/blob/master/pk_cdm.png)
 Las huellas de BAO se pueden ver en el MPS
 
-Otra fuente de información para comprender a ninvel básico este fenómeno es el artículo de la NASA: [link text](https://svs.gsfc.nasa.gov/13768)
+Otra fuente de información para comprender a ninvel básico este fenómeno es el artículo de la NASA: [NASA](https://svs.gsfc.nasa.gov/13768)
